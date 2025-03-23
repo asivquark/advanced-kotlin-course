@@ -1,6 +1,6 @@
-package com.cccc.advancedkotlincourse
+package com.asivquark.advancedkotlincourse
 
-import com.cccc.advancedkotlincourse.Section1CollectionOperations.getUserList
+import com.asivquark.advancedkotlincourse.Section1CollectionOperations.getUserList
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test
 
