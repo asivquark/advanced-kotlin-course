@@ -1,4 +1,4 @@
-package com.cccc.advancedkotlincourse
+package com.asivquark.advancedkotlincourse
 
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test

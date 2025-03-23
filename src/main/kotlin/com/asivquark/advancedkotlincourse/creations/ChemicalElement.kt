@@ -1,3 +1,3 @@
-package com.cccc.advancedkotlincourse.creations
+package com.asivquark.advancedkotlincourse.creations
 
 class ChemicalElement(symbol: String, atomicNumber: Int)
